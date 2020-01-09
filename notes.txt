@@ -1,0 +1,3 @@
+puppeteer is a headless version of chrome. used for e2e tests.
+install via terminal: npm install --save-dev puppeteer
+
